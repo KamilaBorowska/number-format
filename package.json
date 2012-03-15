@@ -2,7 +2,7 @@
   "author": "GlitchMr <glitchmr@myopera.com> (http://glitchmr.pl/)",
   "name": "number-format",
   "description": "Implementation of number_format() from PHP.",
-  "version": "v0.1.0",
+  "version": "v0.1.1",
   "homepage": "https://github.com/GlitchMr/number-format",
   "keywords": [
     "numberFormat",
