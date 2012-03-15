@@ -56,3 +56,8 @@ test 12345678, 2, ',', ' ', '12 345 678,00',
      'French format (positive integer)'
 test -12345678, 2, ',', ' ', '-12 345 678,00',
      'French format (negative integer)'
+
+test '123456789', 0, '123,456,789',
+     '9 numbers (fixed in 0.1.1)'
+test '1234.5', 2, '$$', '$$$', '1$$$234$$50',
+     'Dollar as separator'
