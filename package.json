@@ -1,8 +1,8 @@
 {
-  "author": "GlitchMr <glitchmr@myopera.com> (http://glitchmr.pl/)",
+  "author": "Konrad Borowski <x.fix@o2.pl> (https://xfix.pw)",
   "name": "number-format",
   "description": "Implementation of number_format() from PHP.",
-  "version": "v0.1.1",
+  "version": "v0.1.2",
   "homepage": "https://github.com/GlitchMr/number-format",
   "keywords": [
     "numberFormat",
@@ -19,12 +19,7 @@
   "engines": {
     "node": "*"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/GlitchMr/number-format/raw/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "bugs": "https://github.com/GlitchMr/number-format/issues",
   "dependencies": {},
   "devDependencies": {
